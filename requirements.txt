@@ -10,7 +10,7 @@ future==0.15.2
 futures==3.0.5
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 macholib==1.5.1
 MarkupSafe==0.23
 modulegraph==0.10.4
