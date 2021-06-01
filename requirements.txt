@@ -25,7 +25,7 @@ schedule==0.3.2
 six==1.4.1
 telepot==8.1
 tzlocal==1.2.2
-urllib3==1.15.1
+urllib3==1.26.5
 virtualenv==15.0.2
 Werkzeug==0.11.10
 xattr==0.6.4
